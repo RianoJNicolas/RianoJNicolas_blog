@@ -9,4 +9,11 @@ Es un proyecto de práctica de Git y GitHub, con un formato de Blog. Lo hice con
 
 Y como un amable recordatorio para mi futuro: **Este sera el inicio para conseguir mi primer trabajo**.  
 
-Y como recomendación para los que vean este proyecto vayan y tomen [**el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+Como recomendación para los que vean este proyecto vayan y tomen [**el curso**](https://platzi.com/cursos/git-github/).
+
+## Para ver el blog en Línea
+
+Ingresa en tu navegador la URL:
+https://rianojnicolas.github.io/RianoJNicolas_blog/blogpost.html
+
+El acceso directo es [aquí](https://rianojnicolas.github.io/RianoJNicolas_blog/blogpost.html)
