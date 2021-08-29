@@ -1,2 +1,12 @@
-# RianoJNicolas_blog
-Es un proyecto de práctica de Git y GitHub, con un formato de Blog
+# RianoJNicolas_blog 🚀
+Es un proyecto de práctica de Git y GitHub, con un formato de Blog. Lo hice con ayuda del curso de [Platzi](https://platzi.com/ "Platzi") ["Curso Profesional de Git y GithHub"](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
+
+## En este curso he aprendido de todo
+* Todos los comandos de Git
+* El flujo de trabajo en Github
+* El verdadero amor por las buenas prácticas
+* Trucos para utilizar Git y GitHub
+
+Y como un amable recordatorio para mi futuro: **Este sera el inicio para conseguir mi primer trabajo**.  
+
+Y como recomendación para los que vean este proyecto vayan y tomen [**el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
