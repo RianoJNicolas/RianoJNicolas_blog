@@ -7,7 +7,8 @@ Es un proyecto de práctica de Git y GitHub, con un formato de Blog. Lo hice con
 * El verdadero amor por las buenas prácticas
 * Trucos para utilizar Git y GitHub
 * Conocí al increíble Platzi Team
-* Aprendi de varios ejemplos en Windows y Linux
+* Aprendí de varios ejemplos en Windows y Linux
+* Confirme que es un curso para todas las edades
 
 Y como un amable recordatorio para mi futuro: **Este sera el inicio para conseguir mi primer trabajo**.  
 
