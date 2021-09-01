@@ -6,7 +6,6 @@ Es un proyecto de práctica de Git y GitHub, con un formato de Blog. Lo hice con
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos para utilizar Git y GitHub
-* Conocí al increíble Platzi Team
 * Aprendí de varios ejemplos en Windows y Linux
 * Confirme que es un curso para todas las edades
 
